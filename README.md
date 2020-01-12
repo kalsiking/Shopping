@@ -1,2 +1,2 @@
 # Shopping
-A shopping portal
+A shopping portal. POC for payment applications
